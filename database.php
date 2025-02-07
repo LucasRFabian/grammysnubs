@@ -4,11 +4,6 @@
     ini_set('display_startup_errors', 1);
     error_reporting(E_ALL);
 
-    // put your own values after the equals signs
-    $server   = "localhost";
-    $username = "root";
-    $password = "";
-    $database = "grammysnubs";
 
     try {
         // connect to database
